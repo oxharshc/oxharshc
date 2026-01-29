@@ -23,6 +23,6 @@ I love customizing my environment for peak efficiency.
 
 #### 📫 Connect with Me
 * [Twitter / X](https://x.com/oxharshc)
-* [Farcaster](https://farcaster.xyz/oxharshc)
-* [Base](https://base.app/profile/oxharshc)
 * [LinkedIn](https://linkedin.com/in/oxharshc)
+* [Base](https://base.app/profile/oxharshc)
+* [Farcaster](https://farcaster.xyz/oxharshc)
